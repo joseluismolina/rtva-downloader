@@ -1,0 +1,3 @@
+# RTVA Downloader
+# No external dependencies required - only uses Python standard library + ffmpeg
+# Make sure ffmpeg is installed on your system
